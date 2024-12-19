@@ -1,5 +1,5 @@
 '''
-Arham Sheikh| Sept. 9, 2024
+
 
 Consider the game of tic tac toe (TTT). Two individuals (i.e., an X-player, and an O-player) 
 play on a 9-position board, alternately placing "X" or "O" markers on the board. A player wins 
